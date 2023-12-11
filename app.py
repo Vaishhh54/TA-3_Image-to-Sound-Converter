@@ -3,7 +3,6 @@ from gtts import gTTS
 import pytesseract
 import os
 
-# Remove the import statement for 'new'
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
